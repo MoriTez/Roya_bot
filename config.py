@@ -1,7 +1,7 @@
 import os
 
 # Bot configuration
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("7538244929:AAG8moGzCUlkxo8Oy06WiQhQZbAkyDVguao" "YOUR_BOT_TOKEN_HERE")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "YOUR_OPENAI_API_KEY_HERE")
 
 # Rate limiting configuration
